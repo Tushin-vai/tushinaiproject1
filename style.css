@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+input, select {
+    padding: 8px;
+    margin: 5px 0;
+    width: 250px;
+}
