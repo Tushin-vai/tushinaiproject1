@@ -8,6 +8,34 @@ include "db.php";
 <head>
     <title>Library System</title>
     <link rel="stylesheet" href="style.css">
+
+    <style>
+        .navbar {
+            margin-bottom: 15px;
+        }
+
+        .navbar a {
+            padding: 10px 15px;
+            text-decoration: none;
+            background: #3498db;
+            color: white;
+            border-radius: 5px;
+            margin-right: 5px;
+            display: inline-block;
+        }
+
+        .navbar a:hover {
+            background: #2980b9;
+        }
+
+        .logout-btn {
+            background: #e74c3c !important;
+        }
+
+        .logout-btn:hover {
+            background: #c0392b !important;
+        }
+    </style>
 </head>
 
 <body>
@@ -24,7 +52,7 @@ include "db.php";
         <a href="history.php">Borrowing History</a>
 
         <?php if(isset($_SESSION['user'])): ?>
-            <a href="logout.php">Logout</a>
+            <a href="logout.php" class="logout-btn">Logout</a>
         <?php else: ?>
             <a href="login.php">Login</a>
             <a href="register.php">Register</a>
@@ -33,7 +61,7 @@ include "db.php";
 
     <hr>
 
-    <!-- Search Form -->
+    <!-- Normal Search -->
     <form method="GET">
         <input 
             type="text" 
@@ -44,8 +72,20 @@ include "db.php";
         <button type="submit">Search</button>
     </form>
 
+    <hr>
+
+    <!-- AI Smart Library -->
+    <h2>🤖 AI Smart Library</h2>
+
+    <input type="text" id="aiQuery" placeholder="Ask about books...">
+    <button onclick="aiSearch()">Ask AI</button>
+
+    <div id="aiResult" style="margin-top:20px;"></div>
+
+    <hr>
+
     <!-- Book Table -->
-    <table>
+    <table border="1" cellpadding="8">
         <tr>
             <th>Title</th>
             <th>Author</th>
@@ -76,9 +116,9 @@ include "db.php";
             <td>
                 <?php
                 if($row['copies'] > 0)
-                    echo "<span class='available'>✅ Available ({$row['copies']})</span>";
+                    echo "<span style='color:green;'>✅ Available ({$row['copies']})</span>";
                 else
-                    echo "<span class='out'>❌ Out of stock</span>";
+                    echo "<span style='color:red;'>❌ Out of stock</span>";
                 ?>
             </td>
             <td>
@@ -94,6 +134,27 @@ include "db.php";
     </table>
 
 </div>
+
+<!-- AI SEARCH SCRIPT -->
+<script>
+async function aiSearch() {
+    const query = document.getElementById("aiQuery").value;
+
+    if(query.trim() === ""){
+        alert("Please type a question");
+        return;
+    }
+
+    const res = await fetch("ai_search.php", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ query: query })
+    });
+
+    const data = await res.json();
+    document.getElementById("aiResult").innerHTML = data.html;
+}
+</script>
 
 </body>
 </html>

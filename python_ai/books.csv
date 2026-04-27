@@ -1,0 +1,501 @@
+title,author,genre,isbn,copies
+Book 1,Isaac Asimov,Fiction,978393852073,9
+Book 2,Isaac Asimov,History,978544563517,13
+Book 3,Agatha Christie,Mystery,978902647891,15
+Book 4,Yuval Noah Harari,Science,978896655537,20
+Book 5,Stephen King,Mystery,978139714630,2
+Book 6,J.K. Rowling,Programming,978758554461,20
+Book 7,James Clear,Mystery,978802649844,10
+Book 8,Agatha Christie,Fiction,978656637796,16
+Book 9,Isaac Asimov,Fantasy,978801126964,15
+Book 10,Isaac Asimov,History,978999195362,9
+Book 11,J.K. Rowling,Programming,978588056343,19
+Book 12,Stephen King,Mystery,978830369151,18
+Book 13,Agatha Christie,Fiction,978669623301,15
+Book 14,Robert Martin,Mystery,978723036371,19
+Book 15,Yuval Noah Harari,Mystery,978153148069,1
+Book 16,Stephen King,Fiction,978902816922,10
+Book 17,Mark Twain,History,978745579655,12
+Book 18,Yuval Noah Harari,Biography,978213148867,7
+Book 19,J.K. Rowling,Fiction,978842852296,19
+Book 20,Isaac Asimov,Programming,978892745810,6
+Book 21,J.K. Rowling,Science,978427922179,15
+Book 22,Mark Twain,Science,978333703369,7
+Book 23,Mark Twain,Science,978358395202,9
+Book 24,Yuval Noah Harari,Mystery,978471573622,16
+Book 25,James Clear,Self-help,978245512503,4
+Book 26,James Clear,Programming,978394859228,6
+Book 27,Yuval Noah Harari,History,978768498397,19
+Book 28,Yuval Noah Harari,Programming,978847459342,4
+Book 29,Isaac Asimov,Fiction,978546356235,4
+Book 30,Stephen King,Mystery,978680824090,20
+Book 31,James Clear,Self-help,978146766175,10
+Book 32,James Clear,Fiction,978374465595,6
+Book 33,James Clear,Science,978241828787,11
+Book 34,James Clear,Fiction,978714294566,11
+Book 35,Mark Twain,Biography,978795935172,16
+Book 36,Agatha Christie,Programming,978747484217,9
+Book 37,Stephen King,Fantasy,978292590802,5
+Book 38,Yuval Noah Harari,Fiction,978853125089,17
+Book 39,Robert Martin,Fiction,978731213186,18
+Book 40,Stephen King,Fantasy,978693385266,13
+Book 41,Isaac Asimov,Fiction,978408183107,3
+Book 42,Mark Twain,Science,978246630092,14
+Book 43,Robert Martin,History,978427622657,6
+Book 44,Agatha Christie,Biography,978391757892,1
+Book 45,Mark Twain,Fiction,978563233672,5
+Book 46,Mark Twain,Fantasy,978755259273,13
+Book 47,J.K. Rowling,Fiction,978281640627,12
+Book 48,Mark Twain,Mystery,978767171566,18
+Book 49,Yuval Noah Harari,Mystery,978406816226,8
+Book 50,Agatha Christie,Fantasy,978586051006,19
+Book 51,Yuval Noah Harari,Mystery,978105894088,11
+Book 52,Isaac Asimov,Science,978402796157,20
+Book 53,Stephen King,Mystery,978468461309,13
+Book 54,Mark Twain,Programming,978118963836,12
+Book 55,Yuval Noah Harari,Fantasy,978624502911,2
+Book 56,Robert Martin,Fantasy,978101707473,2
+Book 57,James Clear,Mystery,978203109271,11
+Book 58,Mark Twain,History,978216155234,9
+Book 59,J.K. Rowling,Self-help,978818936306,8
+Book 60,Stephen King,Biography,978787208964,1
+Book 61,Robert Martin,Fiction,978848381706,16
+Book 62,Robert Martin,Mystery,978830684715,1
+Book 63,Stephen King,Programming,978771303654,16
+Book 64,Robert Martin,Fantasy,978271232859,3
+Book 65,Stephen King,Self-help,978539374705,18
+Book 66,James Clear,Biography,978731560577,10
+Book 67,Robert Martin,Biography,978563174772,18
+Book 68,Isaac Asimov,History,978830138934,11
+Book 69,Stephen King,Fantasy,978461030834,18
+Book 70,Mark Twain,Self-help,978680214597,5
+Book 71,Isaac Asimov,Programming,978794934130,11
+Book 72,Stephen King,History,978599609125,1
+Book 73,Mark Twain,Science,978166233526,16
+Book 74,Agatha Christie,Science,978481170015,11
+Book 75,Yuval Noah Harari,Programming,978153698845,15
+Book 76,Robert Martin,History,978722177512,4
+Book 77,J.K. Rowling,Science,978362476244,4
+Book 78,Yuval Noah Harari,History,978643452545,14
+Book 79,Mark Twain,Programming,978468603670,3
+Book 80,Stephen King,Self-help,978136776401,3
+Book 81,Stephen King,Programming,978661656860,1
+Book 82,Isaac Asimov,Programming,978543614139,6
+Book 83,Stephen King,Science,978998563383,2
+Book 84,Stephen King,Programming,978804033582,19
+Book 85,J.K. Rowling,Self-help,978293829958,17
+Book 86,Stephen King,Fiction,978974745524,1
+Book 87,Agatha Christie,Self-help,978822543874,20
+Book 88,Robert Martin,Fiction,978631436595,12
+Book 89,J.K. Rowling,Mystery,978970451398,8
+Book 90,Stephen King,Science,978849632727,16
+Book 91,James Clear,Mystery,978976716686,6
+Book 92,J.K. Rowling,Mystery,978312584136,1
+Book 93,Robert Martin,Mystery,978241103393,8
+Book 94,Robert Martin,Self-help,978150747246,1
+Book 95,Agatha Christie,Mystery,978558101262,14
+Book 96,Mark Twain,Fantasy,978347817254,8
+Book 97,Agatha Christie,Fiction,978736106245,10
+Book 98,Yuval Noah Harari,Biography,978239244569,18
+Book 99,Robert Martin,Science,978527760100,3
+Book 100,Stephen King,Fantasy,978435377597,20
+Book 101,Mark Twain,Mystery,978299913324,18
+Book 102,Yuval Noah Harari,Biography,978565876221,6
+Book 103,Isaac Asimov,Fantasy,978474650633,18
+Book 104,Robert Martin,Programming,978573837502,8
+Book 105,Yuval Noah Harari,Biography,978481481424,5
+Book 106,Isaac Asimov,Biography,978222028367,20
+Book 107,Robert Martin,History,978692015868,4
+Book 108,J.K. Rowling,Biography,978756146802,6
+Book 109,Robert Martin,Programming,978629957564,1
+Book 110,Isaac Asimov,Mystery,978200291199,15
+Book 111,Mark Twain,Programming,978458539435,14
+Book 112,Yuval Noah Harari,Science,978123820139,20
+Book 113,James Clear,Fiction,978234496681,16
+Book 114,J.K. Rowling,Fiction,978450262171,6
+Book 115,Yuval Noah Harari,Fantasy,978528653064,15
+Book 116,Stephen King,Mystery,978266565442,19
+Book 117,J.K. Rowling,Fiction,978680353391,10
+Book 118,Robert Martin,Science,978429136521,6
+Book 119,Stephen King,Self-help,978351438046,10
+Book 120,James Clear,Fantasy,978220911433,16
+Book 121,Agatha Christie,Self-help,978781130730,3
+Book 122,Agatha Christie,Fiction,978743673628,15
+Book 123,Robert Martin,Science,978481396970,8
+Book 124,Robert Martin,Fantasy,978369871554,8
+Book 125,James Clear,Mystery,978217400327,18
+Book 126,Mark Twain,Programming,978266458869,13
+Book 127,Mark Twain,Programming,978410208109,20
+Book 128,Agatha Christie,Fiction,978289733788,18
+Book 129,Stephen King,Programming,978953512119,3
+Book 130,J.K. Rowling,Biography,978750934022,9
+Book 131,J.K. Rowling,Biography,978108878471,12
+Book 132,James Clear,Biography,978469925845,9
+Book 133,Isaac Asimov,Science,978292449273,5
+Book 134,J.K. Rowling,Science,978657435228,13
+Book 135,Mark Twain,Fiction,978816801142,3
+Book 136,Isaac Asimov,Programming,978926336531,10
+Book 137,J.K. Rowling,History,978598902920,2
+Book 138,James Clear,Science,978907510620,15
+Book 139,J.K. Rowling,Fantasy,978982416604,14
+Book 140,Stephen King,Fantasy,978961925453,9
+Book 141,Yuval Noah Harari,Science,978557090330,17
+Book 142,Stephen King,History,978186553810,20
+Book 143,Robert Martin,Science,978846446214,17
+Book 144,J.K. Rowling,Fiction,978638792653,1
+Book 145,Yuval Noah Harari,Fiction,978203080101,5
+Book 146,Agatha Christie,Mystery,978360238905,3
+Book 147,Agatha Christie,Mystery,978148123241,15
+Book 148,Mark Twain,Mystery,978837348178,18
+Book 149,James Clear,Fiction,978451027079,16
+Book 150,Yuval Noah Harari,Self-help,978219292287,10
+Book 151,J.K. Rowling,Fiction,978362472460,15
+Book 152,Stephen King,Self-help,978853485173,12
+Book 153,Yuval Noah Harari,Science,978743085097,8
+Book 154,Agatha Christie,Programming,978468263829,16
+Book 155,Yuval Noah Harari,Fiction,978399140933,17
+Book 156,Stephen King,Self-help,978869166721,11
+Book 157,Robert Martin,Science,978265313707,4
+Book 158,Mark Twain,Fantasy,978817681969,11
+Book 159,Isaac Asimov,Self-help,978564776396,1
+Book 160,Agatha Christie,Fiction,978200082190,19
+Book 161,James Clear,Mystery,978857179888,9
+Book 162,James Clear,Programming,978656567926,6
+Book 163,Mark Twain,Fiction,978651160541,17
+Book 164,Agatha Christie,Fiction,978612385790,5
+Book 165,Robert Martin,Self-help,978309924132,7
+Book 166,J.K. Rowling,Biography,978896340361,8
+Book 167,Agatha Christie,History,978677111143,20
+Book 168,Yuval Noah Harari,Fiction,978528474106,6
+Book 169,Mark Twain,Fantasy,978184440431,17
+Book 170,James Clear,History,978649042526,16
+Book 171,Robert Martin,Science,978808882556,16
+Book 172,Mark Twain,History,978505066961,7
+Book 173,James Clear,Fantasy,978688578569,5
+Book 174,Agatha Christie,Programming,978855114894,17
+Book 175,Isaac Asimov,Biography,978250794147,2
+Book 176,Mark Twain,Mystery,978790295162,17
+Book 177,Stephen King,Science,978591605907,15
+Book 178,Stephen King,Fiction,978356933293,7
+Book 179,Agatha Christie,History,978434976665,13
+Book 180,Mark Twain,Self-help,978867950134,14
+Book 181,Yuval Noah Harari,Science,978295819803,4
+Book 182,Mark Twain,Biography,978621913022,4
+Book 183,Robert Martin,Biography,978127629227,19
+Book 184,Agatha Christie,Fantasy,978551444345,12
+Book 185,Robert Martin,History,978251341232,16
+Book 186,James Clear,History,978837825678,17
+Book 187,Agatha Christie,Fiction,978230297919,11
+Book 188,Isaac Asimov,History,978234263668,3
+Book 189,Isaac Asimov,Fiction,978542058257,8
+Book 190,Stephen King,Biography,978381278293,18
+Book 191,Stephen King,Fiction,978502266928,12
+Book 192,J.K. Rowling,Biography,978352614701,4
+Book 193,Mark Twain,Fantasy,978264560891,12
+Book 194,Robert Martin,Mystery,978142518232,2
+Book 195,J.K. Rowling,Self-help,978265187498,13
+Book 196,Agatha Christie,Mystery,978390200391,10
+Book 197,Isaac Asimov,Mystery,978982593886,15
+Book 198,Agatha Christie,History,978925849794,20
+Book 199,James Clear,Fantasy,978269463209,13
+Book 200,Robert Martin,Self-help,978590385193,13
+Book 201,Robert Martin,Self-help,978800150205,19
+Book 202,James Clear,Fantasy,978571256351,6
+Book 203,Isaac Asimov,History,978865284833,2
+Book 204,James Clear,Self-help,978199323509,2
+Book 205,J.K. Rowling,Fantasy,978673691718,8
+Book 206,Agatha Christie,Programming,978342075769,11
+Book 207,Robert Martin,Fantasy,978739082140,4
+Book 208,Isaac Asimov,Programming,978515570467,8
+Book 209,Stephen King,Self-help,978299865014,4
+Book 210,J.K. Rowling,History,978940383356,4
+Book 211,Mark Twain,Fiction,978834900039,16
+Book 212,J.K. Rowling,Science,978402747654,6
+Book 213,Stephen King,Programming,978876581601,14
+Book 214,Agatha Christie,Biography,978177344613,11
+Book 215,Agatha Christie,Mystery,978314529611,5
+Book 216,James Clear,Mystery,978742531261,13
+Book 217,J.K. Rowling,Science,978308476504,9
+Book 218,Yuval Noah Harari,Programming,978263148174,1
+Book 219,James Clear,Fantasy,978580761789,14
+Book 220,Stephen King,Biography,978433364927,17
+Book 221,Agatha Christie,Fantasy,978174375186,8
+Book 222,James Clear,Mystery,978671772245,13
+Book 223,James Clear,Fiction,978296172035,17
+Book 224,Agatha Christie,Programming,978325330095,15
+Book 225,Yuval Noah Harari,Programming,978288802245,9
+Book 226,Agatha Christie,Programming,978451456162,9
+Book 227,J.K. Rowling,Fiction,978113049754,15
+Book 228,James Clear,Fantasy,978147751340,10
+Book 229,Yuval Noah Harari,Fiction,978883369935,17
+Book 230,Stephen King,Self-help,978707517719,5
+Book 231,Yuval Noah Harari,Programming,978433911396,18
+Book 232,Robert Martin,Science,978335547208,12
+Book 233,Mark Twain,History,978445490357,3
+Book 234,Robert Martin,Programming,978682273268,8
+Book 235,James Clear,Science,978909555414,16
+Book 236,J.K. Rowling,Biography,978337193146,5
+Book 237,Isaac Asimov,Programming,978772940050,12
+Book 238,Mark Twain,Mystery,978534077426,19
+Book 239,Yuval Noah Harari,History,978688500376,11
+Book 240,Yuval Noah Harari,Fantasy,978594952580,18
+Book 241,Isaac Asimov,Programming,978481368870,16
+Book 242,Isaac Asimov,Science,978412412906,19
+Book 243,Stephen King,Self-help,978716345707,13
+Book 244,Stephen King,Fiction,978851888780,17
+Book 245,J.K. Rowling,Fiction,978772032363,6
+Book 246,James Clear,History,978461822847,19
+Book 247,Stephen King,Science,978850123618,8
+Book 248,Agatha Christie,Programming,978878231811,15
+Book 249,Agatha Christie,Programming,978454585421,17
+Book 250,Agatha Christie,Science,978416249440,13
+Book 251,Isaac Asimov,Programming,978191850527,16
+Book 252,Mark Twain,History,978743253791,2
+Book 253,Robert Martin,Programming,978770815141,5
+Book 254,Agatha Christie,Biography,978334405127,2
+Book 255,Mark Twain,History,978265215663,16
+Book 256,Agatha Christie,Biography,978458538205,9
+Book 257,Isaac Asimov,Biography,978295275850,16
+Book 258,Agatha Christie,Fiction,978536941645,20
+Book 259,Yuval Noah Harari,Fantasy,978469077815,13
+Book 260,Agatha Christie,Mystery,978211369377,4
+Book 261,J.K. Rowling,Programming,978831446074,16
+Book 262,Stephen King,Science,978857896266,10
+Book 263,Stephen King,Science,978443306066,10
+Book 264,Yuval Noah Harari,Fiction,978955614099,9
+Book 265,J.K. Rowling,Programming,978830294998,9
+Book 266,J.K. Rowling,Programming,978162043032,7
+Book 267,Yuval Noah Harari,Programming,978891827234,18
+Book 268,J.K. Rowling,History,978442319998,2
+Book 269,Isaac Asimov,History,978399752819,4
+Book 270,Isaac Asimov,Science,978410633529,12
+Book 271,Yuval Noah Harari,Self-help,978922947434,8
+Book 272,Isaac Asimov,Self-help,978589303948,4
+Book 273,James Clear,History,978326488419,10
+Book 274,J.K. Rowling,Fantasy,978934783214,18
+Book 275,J.K. Rowling,Programming,978821209751,2
+Book 276,Isaac Asimov,Fantasy,978675866300,17
+Book 277,Agatha Christie,Fantasy,978789484011,2
+Book 278,Agatha Christie,Mystery,978241503237,7
+Book 279,Yuval Noah Harari,Mystery,978199482101,20
+Book 280,Robert Martin,Self-help,978942477166,18
+Book 281,Yuval Noah Harari,Fiction,978962872357,19
+Book 282,J.K. Rowling,Fiction,978910775075,6
+Book 283,Mark Twain,Fiction,978190501271,4
+Book 284,James Clear,Programming,978361577960,16
+Book 285,Mark Twain,Programming,978456548598,13
+Book 286,Robert Martin,Programming,978895017165,8
+Book 287,Mark Twain,Science,978363629500,10
+Book 288,Robert Martin,Fiction,978130294418,4
+Book 289,Yuval Noah Harari,Science,978194209157,11
+Book 290,James Clear,Fantasy,978272569992,15
+Book 291,Robert Martin,Programming,978935871885,14
+Book 292,Isaac Asimov,Biography,978787688889,6
+Book 293,Robert Martin,Science,978631949104,9
+Book 294,Stephen King,Mystery,978495322622,5
+Book 295,Mark Twain,Self-help,978255744998,14
+Book 296,J.K. Rowling,Science,978908162171,20
+Book 297,Mark Twain,Fantasy,978703072311,9
+Book 298,Agatha Christie,Fiction,978409563444,11
+Book 299,Agatha Christie,Science,978316936415,18
+Book 300,Yuval Noah Harari,Science,978554024608,18
+Book 301,J.K. Rowling,Science,978578734738,12
+Book 302,Stephen King,Biography,978289173398,8
+Book 303,J.K. Rowling,Mystery,978956604286,14
+Book 304,James Clear,Self-help,978116152300,11
+Book 305,Isaac Asimov,Fantasy,978872206448,1
+Book 306,Stephen King,History,978303074601,4
+Book 307,James Clear,History,978795647387,15
+Book 308,Mark Twain,Biography,978492001584,12
+Book 309,Yuval Noah Harari,History,978259059842,15
+Book 310,James Clear,Biography,978217177973,13
+Book 311,J.K. Rowling,Mystery,978322547604,2
+Book 312,Yuval Noah Harari,Mystery,978235347042,16
+Book 313,James Clear,History,978180229646,12
+Book 314,Mark Twain,Self-help,978805951385,18
+Book 315,Isaac Asimov,Fantasy,978375481067,2
+Book 316,Yuval Noah Harari,History,978643200639,4
+Book 317,Stephen King,History,978478080794,3
+Book 318,Stephen King,Fiction,978837412552,1
+Book 319,Mark Twain,Fantasy,978467852557,17
+Book 320,Stephen King,Fantasy,978179955829,3
+Book 321,Mark Twain,Self-help,978107736346,2
+Book 322,Stephen King,Programming,978127384351,6
+Book 323,Stephen King,Self-help,978751194555,19
+Book 324,Agatha Christie,Mystery,978368616904,17
+Book 325,Stephen King,Mystery,978818058402,11
+Book 326,Yuval Noah Harari,Biography,978214015431,12
+Book 327,Mark Twain,History,978798210829,1
+Book 328,Isaac Asimov,Programming,978708580664,14
+Book 329,Mark Twain,Programming,978670574956,1
+Book 330,Isaac Asimov,Self-help,978618815168,12
+Book 331,James Clear,History,978323971361,9
+Book 332,J.K. Rowling,Science,978168894443,5
+Book 333,Isaac Asimov,Programming,978531460004,7
+Book 334,Stephen King,Programming,978343185486,3
+Book 335,James Clear,Science,978622283465,14
+Book 336,Isaac Asimov,Self-help,978948862260,12
+Book 337,Agatha Christie,Programming,978561961210,20
+Book 338,Stephen King,Programming,978727779509,17
+Book 339,J.K. Rowling,Programming,978174253340,3
+Book 340,J.K. Rowling,Biography,978249116334,9
+Book 341,J.K. Rowling,Self-help,978883162749,20
+Book 342,Robert Martin,Self-help,978299879413,16
+Book 343,J.K. Rowling,Biography,978778277145,2
+Book 344,James Clear,Self-help,978969553291,13
+Book 345,Agatha Christie,Mystery,978331582245,6
+Book 346,Isaac Asimov,Science,978205637594,1
+Book 347,Agatha Christie,Science,978391813481,11
+Book 348,Stephen King,Programming,978894306375,8
+Book 349,Robert Martin,Science,978615409495,15
+Book 350,Stephen King,History,978379339231,16
+Book 351,J.K. Rowling,History,978407434803,5
+Book 352,Stephen King,Biography,978592381572,1
+Book 353,Isaac Asimov,Biography,978575597327,3
+Book 354,Robert Martin,Biography,978339397571,11
+Book 355,Mark Twain,Fantasy,978190430925,17
+Book 356,Yuval Noah Harari,History,978502507917,2
+Book 357,Agatha Christie,Mystery,978492923470,3
+Book 358,Agatha Christie,Fantasy,978994353382,14
+Book 359,Stephen King,Self-help,978833417359,13
+Book 360,Yuval Noah Harari,Self-help,978542385847,7
+Book 361,Yuval Noah Harari,Biography,978128061964,1
+Book 362,Yuval Noah Harari,Self-help,978645142061,16
+Book 363,Isaac Asimov,Mystery,978800649654,12
+Book 364,James Clear,Science,978800566719,8
+Book 365,Robert Martin,Fiction,978355960870,12
+Book 366,Isaac Asimov,Fantasy,978530268687,7
+Book 367,J.K. Rowling,Self-help,978885059164,17
+Book 368,Yuval Noah Harari,Fantasy,978195190913,12
+Book 369,Agatha Christie,Mystery,978252308228,9
+Book 370,James Clear,History,978823199350,10
+Book 371,Mark Twain,Programming,978933688667,11
+Book 372,Isaac Asimov,Fiction,978836990676,5
+Book 373,James Clear,Biography,978723758889,2
+Book 374,Stephen King,Mystery,978704192815,6
+Book 375,James Clear,Science,978508786069,8
+Book 376,Mark Twain,History,978104883488,12
+Book 377,Stephen King,Fiction,978717930661,5
+Book 378,Agatha Christie,Science,978581109612,6
+Book 379,Isaac Asimov,History,978145453980,16
+Book 380,James Clear,Biography,978776868698,8
+Book 381,J.K. Rowling,Science,978245226527,13
+Book 382,Isaac Asimov,Programming,978235879290,9
+Book 383,Agatha Christie,Mystery,978793044899,7
+Book 384,Mark Twain,Self-help,978280814610,17
+Book 385,Mark Twain,Self-help,978713647329,5
+Book 386,Mark Twain,Self-help,978659730832,4
+Book 387,Robert Martin,Fantasy,978302971604,12
+Book 388,Isaac Asimov,Programming,978983579364,1
+Book 389,James Clear,Fiction,978553629730,7
+Book 390,Stephen King,Self-help,978500868756,18
+Book 391,Stephen King,Mystery,978754501416,12
+Book 392,J.K. Rowling,Science,978114911239,2
+Book 393,Yuval Noah Harari,Self-help,978375930127,3
+Book 394,Mark Twain,History,978571449126,12
+Book 395,Mark Twain,Fantasy,978151684080,8
+Book 396,Mark Twain,Science,978218122553,20
+Book 397,J.K. Rowling,Mystery,978368490679,10
+Book 398,Stephen King,Biography,978637752483,6
+Book 399,Stephen King,Fiction,978112658009,20
+Book 400,Yuval Noah Harari,Fiction,978809854317,20
+Book 401,Agatha Christie,Fantasy,978160354447,14
+Book 402,Robert Martin,Programming,978684809855,7
+Book 403,James Clear,History,978360691383,1
+Book 404,Mark Twain,Mystery,978399241832,6
+Book 405,Mark Twain,Science,978831825610,10
+Book 406,Stephen King,Fiction,978238075209,7
+Book 407,Yuval Noah Harari,Self-help,978630661746,15
+Book 408,J.K. Rowling,Biography,978348164746,10
+Book 409,Yuval Noah Harari,Mystery,978425132449,9
+Book 410,Isaac Asimov,Fiction,978850277759,4
+Book 411,James Clear,Biography,978787860301,3
+Book 412,Mark Twain,Fantasy,978971601001,9
+Book 413,Yuval Noah Harari,Mystery,978179822943,7
+Book 414,Isaac Asimov,Self-help,978633983009,15
+Book 415,Isaac Asimov,Fiction,978228984670,4
+Book 416,Mark Twain,Programming,978660294696,8
+Book 417,Agatha Christie,Mystery,978898240199,1
+Book 418,Stephen King,Biography,978228092388,4
+Book 419,J.K. Rowling,Self-help,978936625912,8
+Book 420,James Clear,Science,978982912001,15
+Book 421,Yuval Noah Harari,Science,978380347829,17
+Book 422,Yuval Noah Harari,History,978509115712,17
+Book 423,Robert Martin,History,978929458053,4
+Book 424,Isaac Asimov,Mystery,978905217427,17
+Book 425,Stephen King,Fantasy,978307587643,13
+Book 426,Stephen King,Fiction,978188414805,3
+Book 427,Stephen King,Mystery,978358528266,15
+Book 428,Robert Martin,Science,978956152339,8
+Book 429,Agatha Christie,Programming,978851993065,2
+Book 430,Robert Martin,Self-help,978493080032,1
+Book 431,Isaac Asimov,Science,978669751754,10
+Book 432,Stephen King,Fiction,978550726540,4
+Book 433,Robert Martin,Fantasy,978645664035,1
+Book 434,James Clear,History,978514365263,2
+Book 435,J.K. Rowling,Fiction,978837392288,5
+Book 436,Mark Twain,History,978192408823,15
+Book 437,Mark Twain,Fantasy,978546233048,20
+Book 438,J.K. Rowling,Biography,978782538662,19
+Book 439,Agatha Christie,Self-help,978925950950,2
+Book 440,Stephen King,Mystery,978464940833,19
+Book 441,Agatha Christie,History,978599909678,13
+Book 442,Agatha Christie,Programming,978103836321,10
+Book 443,Mark Twain,Biography,978153666092,1
+Book 444,Agatha Christie,Fantasy,978783180802,5
+Book 445,James Clear,Mystery,978142213594,11
+Book 446,Yuval Noah Harari,Fantasy,978184469375,11
+Book 447,J.K. Rowling,Fantasy,978895405657,14
+Book 448,Robert Martin,Programming,978488165916,1
+Book 449,James Clear,Fantasy,978774301511,20
+Book 450,Isaac Asimov,History,978636855230,3
+Book 451,J.K. Rowling,Science,978617094691,12
+Book 452,James Clear,Biography,978623413769,7
+Book 453,James Clear,Fiction,978761251591,2
+Book 454,James Clear,Biography,978203899081,14
+Book 455,J.K. Rowling,History,978576838114,20
+Book 456,Mark Twain,Mystery,978999520185,5
+Book 457,James Clear,Science,978111276050,17
+Book 458,Yuval Noah Harari,Self-help,978103151907,11
+Book 459,Robert Martin,Biography,978703705392,1
+Book 460,Yuval Noah Harari,Mystery,978810027132,17
+Book 461,Isaac Asimov,Science,978163933137,18
+Book 462,James Clear,Programming,978570611327,6
+Book 463,Isaac Asimov,History,978305079948,2
+Book 464,James Clear,Fiction,978965106527,6
+Book 465,Stephen King,Science,978772092891,14
+Book 466,James Clear,History,978218431965,18
+Book 467,Agatha Christie,Fantasy,978209631817,19
+Book 468,Agatha Christie,Programming,978603040010,4
+Book 469,Mark Twain,Self-help,978375933008,13
+Book 470,Isaac Asimov,Biography,978823724315,12
+Book 471,J.K. Rowling,Biography,978232724833,11
+Book 472,Yuval Noah Harari,Fiction,978181620741,3
+Book 473,Mark Twain,Science,978943551753,1
+Book 474,James Clear,Biography,978783912043,8
+Book 475,Stephen King,Mystery,978753861168,17
+Book 476,Stephen King,Fiction,978895022723,16
+Book 477,Robert Martin,History,978857671564,1
+Book 478,Isaac Asimov,Self-help,978267576671,14
+Book 479,Robert Martin,Biography,978964021509,5
+Book 480,Mark Twain,Science,978961147441,12
+Book 481,Yuval Noah Harari,Fantasy,978723091507,11
+Book 482,Robert Martin,Fiction,978225091427,13
+Book 483,Yuval Noah Harari,Programming,978656288392,2
+Book 484,Robert Martin,Fiction,978538814047,16
+Book 485,Stephen King,History,978448062538,5
+Book 486,J.K. Rowling,Fiction,978950611393,12
+Book 487,Yuval Noah Harari,Self-help,978629479044,1
+Book 488,Yuval Noah Harari,Science,978689164721,2
+Book 489,J.K. Rowling,Self-help,978234002728,19
+Book 490,J.K. Rowling,Science,978877230824,10
+Book 491,J.K. Rowling,Programming,978731250319,1
+Book 492,Isaac Asimov,Programming,978883043906,3
+Book 493,Robert Martin,Biography,978554086937,18
+Book 494,Isaac Asimov,Science,978148642567,2
+Book 495,Stephen King,Self-help,978916302728,13
+Book 496,Agatha Christie,History,978483809457,4
+Book 497,James Clear,Mystery,978687101731,14
+Book 498,Isaac Asimov,Mystery,978883614189,16
+Book 499,Isaac Asimov,Programming,978852577611,2
+Book 500,Agatha Christie,Fantasy,978701665366,9
